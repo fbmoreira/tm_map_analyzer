@@ -15,13 +15,21 @@ The file example_map picks a bad map by Dave (yes, you have been a bad boy, Dave
 
 
 R,I,Y,U,K,Y,G,I,Y,R,B,U,I,I
+
 K,I,I,B,G,S,R,I,B,U,K,I,Y
+
 G,S,R,I,I,I,I,I,I,S,I,I,S,I
+
 K,B,G,I,Y,R,S,U,I,I,K,B,G
+
 U,Y,S,I,U,K,B,Y,S,R,Y,U,K,I
+
 R,I,I,G,S,R,K,U,K,I,B,G,R
+
 B,I,G,U,I,I,I,I,I,I,I,I,I,I
+
 I,K,B,I,G,S,R,Y,U,K,B,G,I
+
 S,R,Y,I,U,Y,B,G,S,R,Y,U,K,I
 
 I = rIver
