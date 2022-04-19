@@ -36,4 +36,5 @@ S = Gray (Mountain/Stone)
 
 The format is similar to snellman, so go ask Juho about the choice of letters :P
 I decided to stick with the snellman format due to its popularity.
+One important caveat: do NOT use an initial line of river hexes as in snellman for maps with inverted lenghts for rows. Just pass the "skewed" parameter.
 
